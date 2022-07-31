@@ -1,2 +1,1 @@
-# docker-container-template
-Docker container template
+# Debian docker python image
