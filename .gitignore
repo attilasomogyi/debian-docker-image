@@ -1,0 +1,9 @@
+*
+!*/
+!*.json
+!*.md
+!*.yml
+!*CHANGELOG.md
+!*LICENSE
+!*Dockerfile
+!.gitignore
