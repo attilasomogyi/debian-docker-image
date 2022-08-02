@@ -1,1 +1,1 @@
-# Debian docker python image
+# 📅🐍🐋 Daily Debian Python Docker image
