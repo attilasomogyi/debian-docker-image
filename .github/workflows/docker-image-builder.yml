@@ -1,5 +1,13 @@
 name: Docker image builder
 on:
+  push:
+    paths:
+      - Dockerfile
+
+  pull_request:
+    paths:
+      - Dockerfile
+
   schedule:
     - cron: "0 0 * * *"
 
