@@ -42,4 +42,4 @@ jobs:
           context: .
           push: true
           platforms: linux/amd64
-          tags: ${{ github.repository }}:daily
+          tags: ${{ github.repository }}:daily, ${{ github.repository }}:latest
