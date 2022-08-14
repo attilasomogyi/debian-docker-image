@@ -1,5 +1,5 @@
 
-# 📅🐍🐋 Daily Debian Python Docker image
+# 📅🐋 Daily Debian Docker image
 
 ## Support
 
