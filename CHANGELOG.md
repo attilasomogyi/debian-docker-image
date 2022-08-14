@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/attilasomogyi/debian-python-docker-image/compare/v1.0.0...v1.1.0) (2022-08-14)
+
+
+### Features
+
+* **dockerfile:** add ansible support ([7493dc2](https://github.com/attilasomogyi/debian-python-docker-image/commit/7493dc2e2b062c5bc15a29d6786772867ec95e58))
+
 # 1.0.0 (2022-08-03)
 
 
